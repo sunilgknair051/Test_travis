@@ -72,7 +72,7 @@ from scipy.optimize import leastsq
 #
 
 X, Y = [], []
-for line in open('aray1.txt', 'r'):
+for line in open('aray1.txt', 'r'):           #Read the particular txt file and read lines
   values = [float(s) for s in line.split()]
   X.append(values[0])
   Y.append(values[1])
