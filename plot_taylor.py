@@ -1,9 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 20 10:41:35 2018
-
-@author: User
-"""
+'''
+@Sunilgknair051
+'''
 
 #import xdrlib
 #import math
